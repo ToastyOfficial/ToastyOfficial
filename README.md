@@ -3,7 +3,7 @@
 <img alt="GitHub User's stars" src="https://img.shields.io/github/stars/ToastyOfficial?label=Stars%20Received">
 
 I'm a software developer, as well as a Back-end developer and FiveM/Rust developer.<br>
-Currently, I'm working on an OpenAI ChatGPT-3 assistant. I'am also very excited to learn COBOL and GraphQL.
+Currently, I'm working on an OpenAI ChatGPT-3 assistant. I'am also very excited to learn COBOL and GraphQL.<br>
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=ToastyOfficial&show_icons=true&bg_color=00000000)
 
