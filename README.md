@@ -11,8 +11,6 @@ Currently, I'm working on an OpenAI assistant. I'am also very excited to learn C
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=ToastyOfficial&show_icons=true&bg_color=00000000&hide=stars)
 
-[![Contact](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white&link=mailto:toasty@dwnstr.com)](mailto:toasty@dwnstr.com)
-
 ## 🏆 Masteries
 
 ![Lua](https://img.shields.io/badge/lua-%232C2D72.svg?style=for-the-badge&logo=lua&logoColor=white)
