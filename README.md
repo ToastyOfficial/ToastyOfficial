@@ -7,7 +7,7 @@ Currently, I'm working on an OpenAI ChatGPT-3 assistant. I'am also very excited 
 
 [Visit our Website](https://dwnstr.com)<br>
 [Visit our Shop](https://614.tebex.io/)<br>
-[Visit our FiveM Community](https://discord.gg/zH3k624aSv)<br><br>
+[Visit our FiveM Community](https://discord.gg/zH3k624aSv)<br>
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=ToastyOfficial&show_icons=true&bg_color=00000000)
 
