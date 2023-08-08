@@ -2,6 +2,11 @@
 
 I'm a software developer, as well as a Back-end developer and FiveM/Rust developer.<br>
 Currently, I'm working on an OpenAI ChatGPT-3 assistant. I'am also very excited to learn COBOL and GraphQL.
+![Visitor Badge](https://visitor-badge.laobi.icu/badge?page_id=aemmadi.aemmadi)
+
+[Visit our Website](https://dwnstr.com)<br>
+[Visit our Shop](https://614.tebex.io/)<br>
+[Visit our FiveM Community](https://discord.gg/zH3k624aSv)
 
 [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white&link=mailto:toasty@dwnstr.com)](mailto:toasty@dwnstr.com)
 
@@ -45,9 +50,3 @@ Currently, I'm working on an OpenAI ChatGPT-3 assistant. I'am also very excited 
 ![Visual Studio](https://img.shields.io/badge/Visual%20Studio-5C2D91.svg?style=for-the-badge&logo=visual-studio&logoColor=white)
 ![Atom](https://img.shields.io/badge/Atom-%2366595C.svg?style=for-the-badge&logo=atom&logoColor=white)
 ![Replit](https://img.shields.io/badge/Replit-DD1200?style=for-the-badge&logo=Replit&logoColor=white)
-
-![Visitor Badge](https://visitor-badge.laobi.icu/badge?page_id=aemmadi.aemmadi)
-
-[Visit our Website](https://dwnstr.com)<br>
-[Visit our Shop](https://614.tebex.io/)<br>
-[Visit our FiveM Community](https://discord.gg/zH3k624aSv)
