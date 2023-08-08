@@ -8,7 +8,7 @@ Currently, I'm working on an OpenAI ChatGPT-3 assistant. I'am also very excited 
 [Visit our Shop](https://614.tebex.io/)<br>
 [Visit our FiveM Community](https://discord.gg/zH3k624aSv)
 
-[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white&link=mailto:toasty@dwnstr.com)](mailto:toasty@dwnstr.com)
+[![Contact](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white&link=mailto:toasty@dwnstr.com)](mailto:toasty@dwnstr.com)
 
 ## ⚡ Masteries
 
