@@ -1,8 +1,9 @@
 ## Fancy seeing you here! <img src="https://raw.githubusercontent.com/ToastyOfficial/ToastyOfficial/master/wave.gif" width="30">
+![](https://komarev.com/ghpvc/?username=ToastyOfficial)
+<img alt="GitHub User's stars" src="https://img.shields.io/github/stars/ToastyOfficial?label=Stars%20Received">
 
 I'm a software developer, as well as a Back-end developer and FiveM/Rust developer.<br>
 Currently, I'm working on an OpenAI ChatGPT-3 assistant. I'am also very excited to learn COBOL and GraphQL.
-![Visitor Badge](https://visitor-badge.laobi.icu/badge?page_id=ToastyOfficial.ToastyOfficial)
 
 [Visit our Website](https://dwnstr.com)<br>
 [Visit our Shop](https://614.tebex.io/)<br>
