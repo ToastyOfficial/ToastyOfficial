@@ -1,4 +1,5 @@
 ## Fancy seeing you here! <img src="https://raw.githubusercontent.com/ToastyOfficial/ToastyOfficial/master/wave.gif" width="30">
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=ToastyOfficial&show_icons=true&bg_color=00000000)
 ![](https://komarev.com/ghpvc/?username=ToastyOfficial)
 <img alt="GitHub User's stars" src="https://img.shields.io/github/stars/ToastyOfficial?label=Stars%20Received">
 
