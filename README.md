@@ -3,7 +3,7 @@
 I'm a software developer, as well as a Back-end developer and FiveM/Rust developer.<br>
 Currently, I'm working on an OpenAI ChatGPT-3 assistant. I'am also very excited to learn COBOL and GraphQL.
 
-[![Gmail Badge](https://img.shields.io/badge/-kanna6501@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:toasty@dwnstr.com)](mailto:toasty@dwnstr.com)
+[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white&link=mailto:toasty@dwnstr.com)](mailto:toasty@dwnstr.com)
 
 ## ⚡ Masteries
 
@@ -42,6 +42,7 @@ Currently, I'm working on an OpenAI ChatGPT-3 assistant. I'am also very excited 
 ![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white)
 ![Threejs](https://img.shields.io/badge/threejs-black?style=for-the-badge&logo=three.js&logoColor=white)
 ![Vue.js](https://img.shields.io/badge/vuejs-%2335495e.svg?style=for-the-badge&logo=vuedotjs&logoColor=%234FC08D)
+![Babel](https://img.shields.io/badge/Babel-F9DC3e?style=for-the-badge&logo=babel&logoColor=black)
 
 ## ⚡ IDE/Editors
 ![VS Code Insiders](https://img.shields.io/badge/VS%20Code%20Insiders-35b393.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white)
