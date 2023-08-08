@@ -2,7 +2,7 @@
 
 I'm a software developer, as well as a Back-end developer and FiveM/Rust developer.<br>
 Currently, I'm working on an OpenAI ChatGPT-3 assistant. I'am also very excited to learn COBOL and GraphQL.
-![Visitor Badge](https://visitor-badge.laobi.icu/badge?page_id=aemmadi.aemmadi)
+![Visitor Badge](https://visitor-badge.laobi.icu/badge?page_id=ToastyOfficial.ToastyOfficial)
 
 [Visit our Website](https://dwnstr.com)<br>
 [Visit our Shop](https://614.tebex.io/)<br>
