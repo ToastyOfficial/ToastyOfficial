@@ -3,7 +3,7 @@
 <img alt="GitHub User's stars" src="https://img.shields.io/github/stars/ToastyOfficial?label=Stars%20Received">
 
 I'm a software developer, as well as a Back-end developer and FiveM/Rust developer.<br>
-Currently, I'm working on an OpenAI assistant. I'am also very excited to learn COBOL and GraphQL.
+Currently, I'm working on an OpenAI assistant. I'am also very excited to learn COBOL and Rust.
 ## Places to visit
 - [Visit our Website](https://dwnstr.com)<br>
 - [Visit our Shop](https://614.tebex.io/)<br>
