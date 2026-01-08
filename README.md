@@ -15,8 +15,6 @@ Currently, I work with my partner [Floh](https://github.com/Flohhhhh). We recent
 - JavaScript
 
 ## Places to visit
-- [Visit our Shop](https://facekick.tebex.io/)<br>
-- [Visit our Discord](https:discord.gg/HrXgyQ7KXB)<br>
 - [Visit our Website](https://dwnstr.com)<br>
 - [Visit our FiveM Community](https://discord.gg/zH3k624aSv)<br>
 
