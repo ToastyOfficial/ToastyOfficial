@@ -13,6 +13,7 @@ Currently, I work with my partner [Floh](https://github.com/Flohhhhh). We recent
 - Python
 - Django
 - JavaScript
+- HTML/CSS/TS/JSX
 
 ## Places to visit
 - [Visit our Website](https://dwnstr.com)<br>
