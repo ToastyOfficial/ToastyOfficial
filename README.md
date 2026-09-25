@@ -3,20 +3,15 @@
 <img alt="GitHub User's stars" src="https://img.shields.io/github/stars/ToastyOfficial?label=Stars%20Received">
 
 I'm a software developer, as well as a Back-end developer and FiveM/Rust developer. I am also a software engineer for [Ethereal Software](https://etherealmenu.cn)<br>
-Currently, I work with my partner [Floh](https://github.com/Flohhhhh). We recently finished our full re-build of our site [Dawnstar](https://dwnstr.com) Also working on a complete<br> rewrite for [Dawnstar FiveM Anti-Cheat](https://github.com/ToastyOfficial/dawnstar_ac)
+Currently, My current project list consists of a christian based study site *(link down below)* a new FiveM FW called **ButteredFW**, new 5M anticheat **KrustyAC**, a custom knowledge base discord support ai called **Ethereal** powered by our in-house SLM **Monarch 1.0-kong** releasing soon for the **Ethereal Community**
 
 ## Skills
-- SQL
-- Lua
-- C++
-- C#
-- Python
-- Django
-- JavaScript
-- HTML/CSS/TS/JSX
+- Full-stack
+- Data Analytics
+- Software/AI Engineering
+- Netowkring Security & Forensics
 
 ## Places to visit
-- [Visit our Website](https://dwnstr.com)<br>
-- [Visit our FiveM Community](https://discord.gg/zH3k624aSv)<br>
+- [The Living Word](https://thelivingword.cc)<br>
 
 ![Toasty's GitHub stats](https://github-readme-stats.vercel.app/api?username=ToastyOfficial&show_icons=true&bg_color=00000000&hide=stars)
