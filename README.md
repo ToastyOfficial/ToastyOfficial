@@ -28,6 +28,7 @@ A Windows desktop LEGO CAD application for planning digital builds and bringing 
 The company website and portfolio for showcasing my software engineering and cybersecurity projects and helping visitors explore my work.
 - Project information and links to applications.
 - An overview of Toastizle Labs and its work.
+- Product key management *(for future projects)*
 - Custom toast-themed branding.
 
 **Sovereign Fronts**</br>
