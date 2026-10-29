@@ -80,7 +80,7 @@ A selection of the applications and tools I’m developing at **Toastizle Labs**
   <tr>
     <td width="50%" valign="top">
       <h3>Sovereign Fronts</h3>
-      <p><img src="assets/project-badges/browser-strategy-game.svg" alt="Browser Strategy Game"></p>
+      <p><img src="assets/project-badges/browser-strategy-game.svg" alt="Browser Strategy Game"> <img src="assets/project-badges/coming-soon.svg" alt="Coming Soon"></p>
       <p>A single-player browser strategy game built as an OpenFrontIO fork, where players expand their territory and compete against AI nations.</p>
       <p><strong>Core features</strong></p>
       <ul>
@@ -92,7 +92,7 @@ A selection of the applications and tools I’m developing at **Toastizle Labs**
     </td>
     <td width="50%" valign="top">
       <h3>OTG Checker / File Management</h3>
-      <p><img src="assets/project-badges/android-storage.svg" alt="Android &amp; Storage"></p>
+      <p><img src="assets/project-badges/android-storage.svg" alt="Android &amp; Storage"><img src="assets/project-badges/coming-soon.svg" alt="Coming Soon"></p>
       <p>An Android file manager for accessing and managing files on connected USB drives and external storage.</p>
       <p><strong>Core features</strong></p>
       <ul>
