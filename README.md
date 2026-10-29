@@ -13,5 +13,5 @@ Currently, My current project list consists of a christian based study site *(li
 
 ## Places to visit
 - [The Living Word](https://thelivingword.cc)<br>
-
-![Toasty's GitHub stats](https://github-readme-stats.vercel.app/api?username=ToastyOfficial&show_icons=true&bg_color=00000000&hide=stars)
+- [Medical Assistant Companion](https://macompanion.org)<br>
+- [Studworks - Lego Sandbox](https://legosandbox.org)<br>
